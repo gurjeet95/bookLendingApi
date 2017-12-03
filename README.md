@@ -69,6 +69,14 @@ GET /books/?title=butter
 * for quering a book with author:
 GET /books/?author=jordan
 
+## users table
+
+* For getting all users: GET /users
+* For updating user(send user object as request payload with chnges to other field except id): PUT /users 
+* For getting a single user: GET /users/100288825
+* For deleting a single user: DELETE /users/100288825
+* For quering a user with late_fees:GET /users/?late_fees=any
+
 
 
 
