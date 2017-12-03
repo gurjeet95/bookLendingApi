@@ -45,8 +45,9 @@
         ],
         "booksReserved": "peace",
        	"late_fees": 500}
- }
 
+
+* for posting a new book(send book object as request payload):POST  /books
 
 * for getting all books: 
 GET /books
@@ -70,13 +71,14 @@ GET /books/?title=butter
 GET /books/?author=jordan
 
 ## users table
-
+* for creating a new user(send user object as request payload):POST  /users
 * For getting all users: GET /users
 * For updating user(send user object as request payload with chnges to other field except id): PUT /users 
 * For getting a single user: GET /users/100288825
 * For deleting a single user: DELETE /users/100288825
 * For quering a user with late_fees:GET /users/?late_fees=any
-
+### I am using postman to test my API.
+#### Note: POST /users = url-where-your-app-is -running/users.   Similarly, define path for each of above method as this.
 
 
 
