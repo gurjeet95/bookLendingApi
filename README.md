@@ -9,6 +9,7 @@
 * To run this app locally, you have to change the port and host in the server connection in app.js.
 # for a sample book data you can use following object
 
+* 
 {
     "author": "jordan",
     "copies": [
@@ -32,8 +33,10 @@
     "title": "butter"
 }
 
+
 ## for a sample user data you can use following object
-* {  
+* 
+{  
      
         "id": "100288825",
         "name": "Gurjeet",
