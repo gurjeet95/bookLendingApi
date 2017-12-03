@@ -9,8 +9,7 @@
 * To run this app locally, you have to change the port and host in the server connection in app.js.
 ## for a sample book data you can use following object
 
-{
-    "author": "jordan",
+    { "author": "jordan",
     "copies": [
         {
             "editionDate": "08-12-2016",
@@ -29,8 +28,7 @@
         "date": "10-28-2016",
         "publisher": "newpress"
     },
-    "title": "butter"
-}
+    "title": "butter"}
 
 
 ## for a sample user data you can use following object
