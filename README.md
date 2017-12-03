@@ -32,26 +32,26 @@
     "title": "butter"
 }
 
-* for getting all books
-get /books
+* for getting all books: 
+GET /books
 
-* for updating book(send book object as request payload with changes to other fields except isbn)
-put /books
+* for updating book(send book object as request payload with changes to other fields except isbn): 
+PUT /books
 
-* for getting a single book
-get /books/222
+* for getting a single book:
+GET /books/222
 
-* for deleting a book
-delete /books/222
+* for deleting a book:
+DELETE /books/222
 
-* for quering a book with genre
-get /books/?genre=food
+* for quering a book with genre:
+GET /books/?genre=food
 
-* for quering a book with title
-get /books/?title=butter
+* for quering a book with title:
+GET /books/?title=butter
 
-* for quering a book with author
-get /books/?author=jordan
+* for quering a book with author:
+GET /books/?author=jordan
 
 
 
