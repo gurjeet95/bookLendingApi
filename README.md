@@ -35,8 +35,8 @@
 
 ## for a sample user data you can use following object
 {  
-     
-        "id": "100288825",
+
+        {"id": "100288825",
         "name": "Gurjeet",
          "email": "gv9810@gmail.com",
         "booksBorrowed": [
@@ -46,7 +46,7 @@
             }
         ],
         "booksReserved": "peace",
-       	"late_fees": 500
+       	"late_fees": 500}
  }
 
 
