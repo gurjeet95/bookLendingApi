@@ -27,7 +27,33 @@
     "publication": {
         "cityPublished": "surrey",
         "date": "10-28-2016",
-        "publisher": "jordan"
+        "publisher": "newpress"
     },
     "title": "butter"
 }
+
+* for getting all books
+get /books
+
+* for updating book(send book object as request payload with changes to other fields except isbn)
+put /books
+
+* for getting a single book
+get /books/222
+
+* for deleting a book
+delete /books/222
+
+* for quering a book with genre
+get /books/?genre=food
+
+* for quering a book with title
+get /books/?title=butter
+
+* for quering a book with author
+get /books/?author=jordan
+
+
+
+
+
