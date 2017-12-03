@@ -9,7 +9,6 @@
 * To run this app locally, you have to change the port and host in the server connection in app.js.
 ## for a sample book data you can use following object
 
-* 
 {
     "author": "jordan",
     "copies": [
