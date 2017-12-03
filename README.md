@@ -1,5 +1,5 @@
 # bookLendingApi
-##Team Members
-*Gurjeet Singh
-*Lovepreet Singh
-*Harroop Kang
+## Team Members
+* Gurjeet Singh
+* Lovepreet Singh
+* Harroop Kang
