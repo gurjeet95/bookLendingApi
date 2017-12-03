@@ -35,7 +35,6 @@
 
 
 ## for a sample user data you can use following object
-* 
 {  
      
         "id": "100288825",
